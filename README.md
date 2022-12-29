@@ -1,4 +1,1 @@
-"# SkraldeBot" 
-"# SkraldeBot" 
-"# SkraldeBot" 
-"# SkraldeBot" 
+1. semester mini projekt
